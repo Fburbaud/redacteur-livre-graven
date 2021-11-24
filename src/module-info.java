@@ -1,0 +1,3 @@
+module RedacteurLivre {
+	requires itextpdf;
+}
